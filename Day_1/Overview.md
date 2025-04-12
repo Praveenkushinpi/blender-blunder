@@ -24,7 +24,7 @@ Introduce complete beginners to Blender with a hands-on overview covering instal
 - **Outliner** - Lists all objects in your scene
 - **Properties Panel** - Control settings like materials and render options
 - **Timeline** - For animation (optional for this session)
-![Image](https://github.com/user-attachments/assets/0ffb475f-1e0e-4c8b-89bd-96e08fd77906)
+![Image](https://github.com/user-attachments/assets/41e81236-354f-4983-8c98-85a9815e7a1c)
 
 **Navigation Basics:**
 - Rotate View: Middle Mouse Button (MMB)
