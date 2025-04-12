@@ -12,7 +12,7 @@ Introduce complete beginners to Blender with a hands-on overview covering instal
 - Visit [https://blender.org](https://blender.org)
 - Download the latest Blender version (Windows/macOS/Linux supported)
 - Install and open it
-
+![Image](https://github.com/user-attachments/assets/96c696bc-f49e-4529-b55b-ef0df561549e)
 **Why It Matters:**
 - Getting started with Blender is just a download away
 
@@ -24,6 +24,7 @@ Introduce complete beginners to Blender with a hands-on overview covering instal
 - **Outliner** - Lists all objects in your scene
 - **Properties Panel** - Control settings like materials and render options
 - **Timeline** - For animation (optional for this session)
+![Image](https://github.com/user-attachments/assets/0ffb475f-1e0e-4c8b-89bd-96e08fd77906)
 
 **Navigation Basics:**
 - Rotate View: Middle Mouse Button (MMB)
@@ -48,12 +49,12 @@ Introduce complete beginners to Blender with a hands-on overview covering instal
 - `Shift + A` → Mesh → Cube/UV Sphere
 - `Tab` → Edit Mode
 - Use vertex (1), edge (2), face (3) selection modes
-
+![Image](https://github.com/user-attachments/assets/032a7c58-2068-4c0a-949f-422c6d2d04c3)
 **Modeling Tools:**
 - `E` - Extrude (pull new geometry out)
 - `Ctrl + R` - Loop Cut (add edge loops)
 - `X` - Delete
-
+![Image](https://github.com/user-attachments/assets/72abced6-ae4c-47ef-a802-edc42e0d7ace)
 **Activity:** Make a simple table, dice, or letter block
 
 **Goal:** Understand how 3D objects are built from vertices, edges, and faces
