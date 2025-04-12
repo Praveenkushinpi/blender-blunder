@@ -66,6 +66,7 @@ Introduce complete beginners to Blender with a hands-on overview covering instal
 - Use brushes like Draw, Grab, Smooth
 - Hold `Shift` for smoothing
 - Enable Dyntopo (Dynamic Topology) for more detail
+![Image](https://github.com/user-attachments/assets/80da4b8b-b3df-4966-84e3-08dd228ea563)
 
 **Best Used For:**
 - Organic shapes (characters, creatures)
@@ -90,7 +91,7 @@ Introduce complete beginners to Blender with a hands-on overview covering instal
 **Why It Matters:** Adds realism to your scene
 
 **Example Activity:** Color your object and test how light direction changes its look
-
+![Image](https://github.com/user-attachments/assets/d8236b65-441f-4a75-8a6b-78d6ef9e6fa1)
 ---
 
 ### 6. 📷 Rendering
@@ -105,7 +106,7 @@ Introduce complete beginners to Blender with a hands-on overview covering instal
 **Render:**
 - `F12` to render
 - Save: Image → Save As
-
+![Image](https://github.com/user-attachments/assets/8ac4c0f9-e9ea-440c-ae4b-ce7aab7318c5)
 **Goal:** Take a snapshot of your 3D scene
 
 **Example Activity:** Render your table or dice model with lighting and color
